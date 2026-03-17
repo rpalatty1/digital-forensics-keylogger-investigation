@@ -16,7 +16,7 @@ Demonstrated skills in incident response, forensic analysis, and root cause inve
 - Analysed multiple file types (JPG, PNG, BMP, GIF, TIFF, HEIC)  
 - Developed a custom HEIC carver in FTK  
 
-## Skills
+## Skills Demonstrated
 - Digital forensics & evidence handling  
 - Data carving & artifact analysis  
 - Timeline reconstruction  
